@@ -1,0 +1,8 @@
+:root {
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", sans-serif;
+  color-scheme: dark;
+  line-height: 1.5;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: #0b1220; color: #e6ebf5; }
+button, input { font: inherit; }
